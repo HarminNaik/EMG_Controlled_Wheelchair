@@ -54,7 +54,6 @@ while True:
         
     else:
         increasing = False
-        peak = 0
     
     if(not increasing):
         #Conditional statements for motor control
